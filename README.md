@@ -47,12 +47,13 @@ Always curious and eager to learn new technologies 🚀
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hsynpng&show_icons=true&theme=tokyonight" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hsynpng&theme=tokyonight" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsynpng&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hsynpng&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsynpng&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsynpng&layout=compact&langs_count=8&theme=tokyonight" height="160px"/>
+  
 </div>
+
 
 ---
 
